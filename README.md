@@ -1,10 +1,7 @@
-<h1 align="center">Advanced Auth Tutorial 🔒 </h1>
+<h1 align="center">Advanced MERN Auth 🔒 </h1>
 
-![Demo App](/frontend/public/screenshot-for-readme.png)
 
-[Video Tutorial on Youtube](https://youtu.be/pmvEgZC55Cg)
-
-About This Course:
+About This Project:
 
 -   🔧 Backend Setup
 -   🗄️ Database Setup
@@ -55,5 +52,3 @@ npm run build
 ```shell
 npm run start
 ```
-
-### I'll see you in the next one! 🚀
